@@ -13,7 +13,7 @@ Exploring the behavior of 2d Lennard-Jones systems under different conditions wi
 `from library.py import *`
 
 
-# CE QUI RESTE A FAIRE 
+# CE QU'IL RESTE A FAIRE 
 
 *Voir la section "issues"*
  > Tout se passe sur le jupyter main. 
